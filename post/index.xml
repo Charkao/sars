@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data story on SARS Data Story</title>
+    <link>https://charkao.github.io/sars/post/</link>
+    <description>Recent content in Data story on SARS Data Story</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://charkao.github.io/sars/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the data story...</title>
+      <link>https://charkao.github.io/sars/post/project-1/</link>
+      <pubDate>Sat, 02 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://charkao.github.io/sars/post/project-1/</guid>
+      <description>The main objective of this project is to design and implement an autonomous robot that learns to walk by itself using reinforcement learning. This is done by using artificial intelligence and image processing algorithms that allow the robot to move as efficiently as possible.
+  &amp;ndash;
+  1. The hardware:
+ Arduino Romeo Raspberry Pi 4 (integrated WiFi) Pi Camera  2. The software:
+ VNC Viewer : To remotely control the desktop interface of the Raspberry Pi C++ on the Arduino Python + Numpy + OpenCV + Tensorflow on the Raspberry Pi Serial protocol for Arduino &amp;lt;-&amp;gt; Raspberry Pi   3.</description>
+    </item>
+    
+  </channel>
+</rss>
